@@ -7,22 +7,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=
-python,
-tensorflow,
-pytorch,
-fastapi,
-flask,
-react,
-postgres,
-mongodb,
-docker,
-gcp,
-linux,
-git,
-github,
-bash
-&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,react,postgres,mongodb,docker,gcp,linux,kali,androidstudio,git,bash&theme=dark" />
 
 <br/><br/>
 
