@@ -3,8 +3,25 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Uday%20Garg&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
+<!-- ===================== TECH STACK (ANIMATED) ===================== -->
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLM+Systems+%7C+Data+Engineering;RAG+Pipelines+%7C+LLM+Orchestration;From+Raw+Data+to+Deployed+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=AI+%2F+ML+%E2%86%92+Supervised+%7C+Unsupervised+%7C+Feature+Engineering+%7C+Evaluation;Scikit-learn+%7C+TensorFlow+%7C+Model+Validation+%7C+Explainability" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=A78BFA&center=true&vCenter=true&width=900&lines=LLMs+%2F+GenAI+%E2%86%92+RAG+%7C+Prompt+Engineering+%7C+Embeddings;Sentence-BERT+%7C+FAISS+%7C+Multi-LLM+Routing+%7C+Hallucination+Control" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=34D399&center=true&vCenter=true&width=900&lines=NLP+Pipelines+%E2%86%92+Text+Chunking+%7C+Semantic+Search+%7C+Similarity+Scoring;Document+Q%26A+%7C+Context+Retrieval+%7C+Ranking" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=FBBF24&center=true&vCenter=true&width=900&lines=Backend+Systems+%E2%86%92+FastAPI+%7C+Flask+%7C+REST+APIs+%7C+JWT+Auth;Input+Validation+%7C+Rate+Limiting+%7C+Caching" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=F472B6&center=true&vCenter=true&width=900&lines=Data+Engineering+%E2%86%92+ETL+Pipelines+%7C+SQL+%7C+Pandas+%7C+NumPy;Cron+Jobs+%7C+Logging+%7C+Error+Handling" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=60A5FA&center=true&vCenter=true&width=900&lines=Infra+%26+Deployment+%E2%86%92+Google+Cloud+%7C+Linux+%7C+Docker;Cost-Aware+Deployment+%7C+Production+Monitoring" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=700&color=E5E7EB&center=true&vCenter=true&width=900&lines=Frontend+Integration+%E2%86%92+React+%7C+Android+(Kotlin)+%7C+API-Driven+UI;End-to-End+System+Ownership" />
+
+</div>
+
 
 <br/>
 
@@ -104,7 +121,7 @@ Facial Recognition — Vulnerabilities & Mitigation
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=tigerhooduday&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tigerhooduday&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://streak-stats.demolab.com?user=tigerhooduday&theme=tokyonight&hide_border=true"/>
 
 </div>
 
