@@ -1,141 +1,152 @@
-# Uday Garg
-### AI Engineer · LLM Systems · Data Engineering
+````md
+<!-- ===================== HERO ===================== -->
+<div align="center">
 
-> I build AI systems that survive contact with real users.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Uday%20Garg&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
 
----
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+LLM+Systems+%7C+Data+Engineering;Building+Production-Grade+AI+Systems;RAG+Pipelines+%7C+LLM+Orchestration+%7C+ETL+Automation;From+Raw+Data+to+Deployed+Intelligence" />
 
-## 🧠 What I Actually Do
+<br/>
 
-I design, implement, and deploy **production-oriented AI systems** — not notebook-only experiments.
+<img src="https://skillicons.dev/icons?i=python,tensorflow,fastapi,react,postgres,docker,gcp,linux&theme=dark" />
 
-My work sits at the intersection of:
-- **LLM-powered applications**
-- **Data engineering pipelines**
-- **Backend systems that don’t fall apart at scale**
+<br/><br/>
 
-I care less about buzzwords and more about:
-- System design
-- Failure modes
-- Latency, cost, and reliability
-- Clear interfaces between components
+<a href="https://udaygarg.com">
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/tigerhooduday">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/tigerhooduday">
+  <img src="https://img.shields.io/badge/GitHub-0B0B0B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
-
-## ⚙️ Core Technical Focus
-
-### AI / Machine Learning
-- Supervised & Unsupervised Learning
-- Feature engineering & model evaluation
-- Scikit-learn, TensorFlow
-- Model explainability & validation
-
-### LLMs & NLP
-- Retrieval-Augmented Generation (RAG)
-- Embeddings (Sentence-BERT)
-- Vector search (FAISS)
-- Prompt engineering (task, system, and failure-aware)
-- Multi-LLM routing (local + hosted)
-
-### Data Engineering
-- ETL pipelines (Python, Pandas, SQL)
-- REST APIs & background jobs
-- Cron-based automation
-- Data validation, logging, and error handling
-
-### Backend & Infra
-- FastAPI / Flask
-- JWT-based authentication
-- API-first system design
-- Cloud deployment (GCP, Hostinger)
-- Lightweight, cost-aware architecture
+</div>
 
 ---
 
-## 🧩 Flagship Projects
+## 🧠 Identity
 
-### 🔹 GuruCool AI — Personal AI Tutor (MVP)
-**AI-powered learning system using RAG**
+I’m an **AI Engineer** focused on **real-world LLM systems**, not toy demos.
 
-- Converts raw notes into structured lessons
-- Context-aware question answering
-- Adaptive quiz generation
-- Stack: React · FastAPI · PostgreSQL · pgvector
-- LLMs: Ollama / GPT-4o / Groq
-- JWT-secured APIs with mobile-first UX
+I build systems that:
+- handle **unstructured data**
+- control **hallucinations**
+- survive **latency, cost, and failure**
+- actually get **deployed and used**
 
-> Focus: correctness, controllable hallucination, and modular design
+I care more about **system behavior** than buzzwords.
 
 ---
 
-### 🔹 DailyQubit — Automated Tech News Platform
-**End-to-end automated content pipeline**
+## 🏗️ AI System Architecture (Live Diagram)
 
-- Python scraping with scheduled execution
-- Error logging + alerting
-- Android app (Kotlin) + lightweight web frontend
-- Serves ~1k–1.5k monthly users
-- Downtime < 1% per month
+```mermaid
+flowchart LR
+    A[Raw Data] --> B[ETL & Validation]
+    B --> C[Embedding Model]
+    C --> D[Vector Store]
+    D --> E[RAG Layer]
+    E --> F[LLM Router]
+    F --> G[API Layer]
+    G --> H[Web / Mobile Client]
 
-> Focus: automation, reliability, and low operational cost
 
----
 
-### 🔹 Intelligent Chat-Based Assistant
-**Production-deployed AI assistant**
 
-- React frontend + Flask backend
-- Hybrid rule-based + LLM retrieval
-- Input validation & caching
-- Reduced manual search time by 30–40%
+## 🚀 Flagship Systems
 
-> Focus: latency optimization and UX reliability
+### 🔷 GuruCool AI — Personal AI Tutor
 
----
+* Retrieval-Augmented Generation based tutor
+* Converts raw notes → structured lessons
+* Adaptive Q&A + quiz generation
+* Multi-LLM support (local + hosted)
+* JWT-secured APIs
 
-## 📄 Research & Engineering Mindset
-
-- **Publication:** *Vulnerabilities and Mitigation Strategies in Facial Recognition Systems*
-- I study **where AI fails**, not just where it works
-- Interested in:
-  - Model misuse
-  - Security risks
-  - Overconfidence in probabilistic systems
+**Stack:**
+`React · FastAPI · PostgreSQL · pgvector · FAISS · Ollama · Groq`
 
 ---
 
-## 🧠 How I Think About Engineering
+### 🔷 DailyQubit — Automated Tech Intelligence
 
-- Systems > tools
-- Clarity > cleverness
-- Shipping > theorizing
-- Observability > blind optimism
+* Fully automated content ingestion pipeline
+* Python scraping + cron scheduling
+* Android app + lightweight web frontend
+* ~1k–1.5k monthly users
+* <1% downtime
 
-If a system can’t be debugged, explained, or scaled — it’s not done.
-
----
-
-## 🔍 What I’m Looking For
-
-Roles or collaborations in:
-- **AI Engineering**
-- **LLM / Applied GenAI**
-- **Data Engineering**
-
-Environments where:
-- Engineers own problems end-to-end
-- Decisions are evidence-driven
-- Learning is fast and practical
+**Focus:** reliability, automation, low infra cost
 
 ---
 
-## 🌐 Links
+### 🔷 Intelligent Chat-Based Assistant
 
-- Portfolio: https://udaygarg.com
-- GitHub: https://github.com/tigerhooduday
-- LinkedIn: https://linkedin.com/in/tigerhooduday
+* Hybrid rule-based + LLM system
+* React frontend + Flask backend
+* Caching + validation
+* Reduced manual search time by 30–40%
 
 ---
 
-> I don’t optimize for hype.
-> I optimize for systems that work.
+## ⚙️ Technology Matrix
+
+| Layer     | Tools                         |
+| --------- | ----------------------------- |
+| AI / ML   | Scikit-learn, TensorFlow      |
+| LLMs      | RAG, LangChain, Sentence-BERT |
+| Vector DB | FAISS                         |
+| Backend   | FastAPI, Flask                |
+| Data      | SQL, Pandas, ETL Pipelines    |
+| Infra     | Google Cloud, Linux, Docker   |
+
+---
+
+## 📄 Research & Engineering Depth
+
+* **Publication:** *Vulnerabilities and Mitigation Strategies in Facial Recognition Systems*
+* Focus on:
+
+  * Failure modes
+  * Bias & security
+  * Misuse of probabilistic systems
+
+---
+
+## 📊 Live GitHub Analytics
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=tigerhooduday&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=tigerhooduday&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🧩 Engineering Philosophy
+
+* Systems > Tools
+* Reliability > Demos
+* Shipping > Talking
+* Observability > Blind Optimism
+
+If it can’t be debugged, explained, or scaled — it’s not done.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+
+</div>
+```
+
+---
+
+````
+
+
