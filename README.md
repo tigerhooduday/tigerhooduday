@@ -4,7 +4,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Uday%20Garg&fontSize=48&fontColor=FFFFFF&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=800&lines=AI+Engineer+%7C+LLM+Systems+%7C+Data+Engineering;Building+Production-Grade+AI+Systems;RAG+Pipelines+%7C+LLM+Orchestration+%7C+ETL+Automation;From+Raw+Data+to+Deployed+Intelligence" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLM+Systems+%7C+Data+Engineering;RAG+Pipelines+%7C+LLM+Orchestration;From+Raw+Data+to+Deployed+Intelligence" />
 
 <br/>
 
@@ -26,115 +26,97 @@
 
 ---
 
-## 🧠 Identity
+## ⚡ Focus
 
-I’m an **AI Engineer** focused on **real-world LLM systems**, not toy demos.
-
-I build systems that:
-- handle **unstructured data**
-- control **hallucinations**
-- survive **latency, cost, and failure**
-- actually get **deployed and used**
-
-I care more about **system behavior** than buzzwords.
+```txt
+• Production-grade AI systems
+• LLMs beyond demos
+• Data → Intelligence → Deployment
+````
 
 ---
 
-## 🏗️ AI System Architecture (Live Diagram)
+## 🏗️ System View
 
 ```mermaid
 flowchart LR
-    A[Raw Data] --> B[ETL & Validation]
-    B --> C[Embedding Model]
+    A[Data] --> B[ETL]
+    B --> C[Embeddings]
     C --> D[Vector Store]
-    D --> E[RAG Layer]
+    D --> E[RAG]
     E --> F[LLM Router]
-    F --> G[API Layer]
-    G --> H[Web / Mobile Client]
-
+    F --> G[API]
+    G --> H[UI]
 ```
 
+---
 
-## 🚀 Flagship Systems
+## 🚀 Selected Work
 
-### 🔷 GuruCool AI — Personal AI Tutor
+### ▪ GuruCool AI
 
-* Retrieval-Augmented Generation based tutor
-* Converts raw notes → structured lessons
-* Adaptive Q&A + quiz generation
-* Multi-LLM support (local + hosted)
-* JWT-secured APIs
+`RAG-based AI Tutor`
 
-**Stack:**
-`React · FastAPI · PostgreSQL · pgvector · FAISS · Ollama · Groq`
+* Structured learning from raw notes
+* Multi-LLM support · Secure APIs
+
+### ▪ DailyQubit
+
+`Automated Tech Intelligence`
+
+* Python pipelines · Cron automation
+* Android + Web · Live users
+
+### ▪ Chat Assistant
+
+`Hybrid AI System`
+
+* Rule-based + LLM
+* Low latency · Cached responses
 
 ---
 
-### 🔷 DailyQubit — Automated Tech Intelligence
+## 🧪 Stack Snapshot
 
-* Fully automated content ingestion pipeline
-* Python scraping + cron scheduling
-* Android app + lightweight web frontend
-* ~1k–1.5k monthly users
-* <1% downtime
-
-**Focus:** reliability, automation, low infra cost
-
----
-
-### 🔷 Intelligent Chat-Based Assistant
-
-* Hybrid rule-based + LLM system
-* React frontend + Flask backend
-* Caching + validation
-* Reduced manual search time by 30–40%
+```txt
+AI / ML        → Scikit-learn, TensorFlow
+LLMs           → RAG, LangChain, Sentence-BERT
+Vector Search  → FAISS
+Backend        → FastAPI, Flask
+Data           → SQL, Pandas, ETL
+Infra          → GCP, Linux, Docker
+```
 
 ---
 
-## ⚙️ Technology Matrix
+## 📄 Research
 
-| Layer     | Tools                         |
-| --------- | ----------------------------- |
-| AI / ML   | Scikit-learn, TensorFlow      |
-| LLMs      | RAG, LangChain, Sentence-BERT |
-| Vector DB | FAISS                         |
-| Backend   | FastAPI, Flask                |
-| Data      | SQL, Pandas, ETL Pipelines    |
-| Infra     | Google Cloud, Linux, Docker   |
+```txt
+Facial Recognition — Vulnerabilities & Mitigation
+(Failure modes • Security • Bias)
+```
 
 ---
 
-## 📄 Research & Engineering Depth
-
-* **Publication:** *Vulnerabilities and Mitigation Strategies in Facial Recognition Systems*
-* Focus on:
-
-  * Failure modes
-  * Bias & security
-  * Misuse of probabilistic systems
-
----
-
-## 📊 Live GitHub Analytics
+## 📊 Activity
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=tigerhooduday&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=tigerhooduday&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=tigerhooduday&theme=tokyonight&hide_border=true"/>
+<img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=tigerhooduday&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🧩 Engineering Philosophy
+## 🧩 Signal
 
-* Systems > Tools
-* Reliability > Demos
-* Shipping > Talking
-* Observability > Blind Optimism
-
-If it can’t be debugged, explained, or scaled — it’s not done.
+```txt
+Systems > Tools
+Reliability > Demos
+Shipping > Noise
+```
 
 ---
 
