@@ -103,21 +103,10 @@ Facial Recognition — Vulnerabilities & Mitigation
 
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=tigerhooduday&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="150" src="https://streak-stats.demolab.com?user=tigerhooduday&theme=tokyonight&hide_border=true" />
-
 </div>
 
 ---
 
-## 🧩 Signal
-
-```txt
-Systems > Tools
-Reliability > Demos
-Shipping > Noise
-```
-
----
 
 <div align="center">
 
