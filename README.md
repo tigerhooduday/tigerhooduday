@@ -5,6 +5,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=AI+Engineer+%7C+LLM+Systems+%7C+Data+Engineering;RAG+Pipelines+%7C+LLM+Orchestration;From+Raw+Data+to+Deployed+Intelligence" />
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=19&pause=1000&color=F7F7F7&width=500&height=60&lines=+AI+Engineer+%7C+LLM+Systems+%7C+Data+Engineering;RAG+Pipelines+%7C+LLM+Orchestration+;From+Raw+Data+to+Deployed+Intelligence+)](https://git.io/typing-svg)
+
 <br/>
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,flask,react,postgres,mongodb,docker,gcp,linux,kali,androidstudio,git,bash&theme=dark" />
